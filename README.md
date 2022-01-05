@@ -3,7 +3,7 @@
 
 <h3> Objetivo do projeto </h3>
 
-Para praticar HTML, CSS e JS criado dentro das aulas do curso de #webForms da @Alura.
+Para praticar HTML, CSS e JS criado dentro das aulas do curso de #webForms da [Alura](https://www.alura.com.br/).
 
 
 <h3>Exemplo</h3>
